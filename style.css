@@ -120,3 +120,29 @@ ul {
 .hero__image {
   width: 20%;
 }
+
+.advantages__row {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.advantages-card {
+  border-radius: 20px;
+  padding: 237px 48px 48px 48px;
+  max-width: 388px;
+}
+
+.advantages__heading {
+  font-size: 25px;
+}
+
+.advantages__text {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.advantages__link {
+  padding: 16px 31px;
+  border-radius: 55px;
+}
